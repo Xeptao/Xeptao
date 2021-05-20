@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Xeptao ✨ 🧑‍💻</h1>
+<h1>Hi, I'm Xeptao ✨ 🧑‍💻</h1>
 
 <img src="https://i.imgur.com/MT2o385.jpg" alt="Banner">
 

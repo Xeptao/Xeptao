@@ -11,4 +11,4 @@ Due to my interest in privacy, I'm currently working on a privacy-first messenge
 * Documenting my process on [Twitter](https://twitter.com/xeptao)
 * Teaching you how to be a developer at [Youtube](https://youtube.com/channel/UCpIijqPyQI0HFWjMYd77wYg)
 * Talking with other people on my [Discord Community](https://foo.bar)
-* Posting ✨ blogs & stuff ✨ at [LinkedIn](https://linkedin.com/xeptao)
+* Posting ***✨ blogs & stuff ✨*** at [LinkedIn](https://linkedin.com/xeptao)

@@ -9,4 +9,4 @@ Due to my interest in privacy, I'm currently working on a privacy-first messenge
 ## Find me on the Internet 🌎
 
 * Documenting my process on [Twitter](https://twitter.com/xeptao)
-* Showcasing my skills and projects on my [Portfolio](https://xeptao.com).
+* Showcasing my skills and projects on my [Portfolio](https://xeptao.com)

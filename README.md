@@ -1,4 +1,4 @@
-## Xeptao - Front-End Web Developer, Entrepeneur and Content Creator
+## Xeptao - Front-End Web Developer, Entrepreneur and Content Creator
 
 <img src="https://i.imgur.com/MT2o385.jpg" alt="Banner" height="270px" />
 

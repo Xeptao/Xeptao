@@ -9,4 +9,4 @@ I always try to contribute to open-source and create services that help people i
 
 * Documenting my process on [Twitter](https://twitter.com/xeptao)
 * Showcasing my skills and projects on my [Portfolio](https://xeptao.com)
-* Email to [`xeptao@xeptao.com`](mailto:xeptao@xeptao.com)
+* Waiting for people's new emails in [`xeptao@xeptao.com`](mailto:xeptao@xeptao.com)

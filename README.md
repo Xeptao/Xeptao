@@ -20,7 +20,6 @@ I always try to contribute to open-source and create services that help people i
 * [RhymoJS](https://github.com/xeptao/rhymojs/) - Avoid writing repetitive React code.
 * [Xeptao.com](https://github.com/xeptao/xeptao.com/) - My portfolio website.
 * [Choccy](https://github.com/choccyapp/choccy/) - A cross-platform, privacy-first messenger.
-* [ADayOfMine](https://github.com/xeptao/adayofmine/) - Publish todos to the internet :clipboard:
 
 
 ### 🔍&nbsp;&nbsp;Where to find me on the Internet

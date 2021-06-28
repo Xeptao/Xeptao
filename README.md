@@ -1,4 +1,4 @@
-## 𝙓𝙚𝙥𝙩𝙖𝙤 — Front-End Web Developer, Entrepeneur and Content Creator.
+## Xeptao — Front-End Web Developer, Entrepeneur and Content Creator.
 
 ![Banner](https://pbs.twimg.com/profile_banners/1251166481036918786/1624923147/1500x500)
 

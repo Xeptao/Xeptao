@@ -23,7 +23,7 @@ I always try to contribute to open-source and create services that help people i
 
 ### 🔍&nbsp;&nbsp;Where to find me on the Internet
 
-* Documenting my process on [Twitter](https://twitter.com/xeptao)
 * Showcasing my skills and projects on my [Portfolio](https://xeptao.com)
+* Documenting my process on [Twitter](https://twitter.com/xeptao)
+* Posting images about my process ın [Instagram](https://www.instagram.com/xeptao)
 * Waiting for people's new emails in [`xeptao@xeptao.com`](mailto:xeptao@xeptao.com)
-

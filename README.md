@@ -25,18 +25,18 @@ I always try to contribute to open-source and create services that help people i
 
 ### 📖&nbsp;&nbsp;Currently Learning
 
-* Express
-* Vim
-* MongoDB
 * NextJS
 
 ### 🤔&nbsp;&nbsp;Interested in learning at some point
 
 * React Native
+* Vim
+* Express
+* MongoDB
 
 ### 🧑‍💻&nbsp;&nbsp;Projects I am proud of
 
-* [RhymoJS](https://github.com/xeptao/rhymojs/) - Avoid writing repetitive React code.
+* [RhymoJS](https://github.com/rhymojs/rhymojs/) - Avoid writing repetitive React code.
 * [Xeptao.com](https://github.com/xeptao/xeptao.com/) - My portfolio website.
 * [Choccy](https://github.com/choccyapp/choccy/) - A cross-platform, privacy-first messenger.
 

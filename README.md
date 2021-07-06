@@ -1,6 +1,6 @@
 ## Xeptao — Front-End Web Developer, Entrepeneur and Content Creator.
 
-![Banner](https://pbs.twimg.com/profile_banners/1251166481036918786/1624923147/1500x500)
+![Banner](https://pbs.twimg.com/profile_banners/1251166481036918786/1625008318/1500x500)
 
 I am a Front End Web Developer that tries to reach to more and more people by teaching you, and me. \
 I always try to contribute to open-source and create services that help people in some shape-or-form.

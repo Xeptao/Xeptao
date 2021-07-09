@@ -33,6 +33,7 @@ I always try to contribute to open-source and create services that help people i
 * Vim
 * Express
 * MongoDB
+* Touch typing
 
 ### 🔍&nbsp;&nbsp;Where to find me on the Internet
 

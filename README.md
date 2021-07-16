@@ -22,10 +22,11 @@ I always try to contribute to open-source and create services that help people i
 * Visual Studio Code
 * Figma
 * Git
+* NextJS
 
 ### 📖&nbsp;&nbsp;Currently Learning
 
-* NextJS
+...
 
 ### 🤔&nbsp;&nbsp;Interested in learning at some point
 
